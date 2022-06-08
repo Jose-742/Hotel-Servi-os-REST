@@ -1,4 +1,4 @@
-# Hotel-Servi-os-REST
+# Hotel-Serviços-REST
 
 Sistema de Busca de Hotéis
 O sistema deve possuir tabelas para cadastro de cidades, estados, bairros e hotéis. Deve existir uma tabela para cadastrar os quartos de um hotel, indicando o número do quarto, andar, total de camas e preço.
